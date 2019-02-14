@@ -5,7 +5,7 @@ Projet de robot sur roulette télécommandé en bluetooth.
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/roboto)
- * [page d'accueil du projet sur le GesLab](https://dev.humanlab.me/projet/roboto/)
+ * [page d'accueil du projet sur le GesLab](https://rennes.humanlab.me/projet/roboto/)
  * [page wiki du projet sur le wiki du Humanlab](http://wikilab.myhumankit.org/index.php?title=Projets:Roboto)
  * [canal de discussion sur Framateam](https://framateam.org/myhumankit/channels/roboto)
 
@@ -44,7 +44,7 @@ Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) p
 
 ## Links
  * [Documentation page of the project](https://docs.humanlab.me/myhumankit/roboto)
- * [Home page of the project on GesLab](https://dev.humanlab.me/projet/roboto/)
+ * [Home page of the project on GesLab](https://rennes.humanlab.me/projet/roboto/)
  * [Page of the project on the wiki of the Humanlab](http://wikilab.myhumankit.org/index.php?title=Projets:Roboto)
  * [Framateam collaboration channel](https://framateam.org/myhumankit/channels/roboto)
 
