@@ -1,4 +1,7 @@
 # Roboto
+![proto](https://img.shields.io/badge/proto-en%20cours-orange.svg "proto")
+![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
+
 Projet de robot sur roulette télécommandé en bluetooth.
 
 ![featured_image](images/mhk_logotype.png)
